@@ -3,5 +3,7 @@ public class earth1 {
 
         System.out.println("wellcome earth");
 
+        System.out.println("Earth is white");
+
     }
 }
