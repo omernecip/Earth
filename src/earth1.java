@@ -5,5 +5,6 @@ public class earth1 {
 
         System.out.println("Earth is white");
 
+
     }
 }
